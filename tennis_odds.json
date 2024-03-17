@@ -1,0 +1,262 @@
+[
+  {
+    "tournament": "ATP Masters Indian Wells (USA) - Hard",
+    "eventName": "Jannik Sinner ITA vs Carlos Alcaraz ESP",
+    "player1": "Jannik Sinner ITA",
+    "player2": "Carlos Alcaraz ESP",
+    "player1_odds": "1.78",
+    "player2_odds": "2.05",
+    "eventDate": "2024-03-16 23:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ATP Masters Indian Wells (USA) - Hard",
+    "eventName": "Tommy Paul USA vs Daniil Medvedev RUS",
+    "player1": "Tommy Paul USA",
+    "player2": "Daniil Medvedev RUS",
+    "player1_odds": "3.20",
+    "player2_odds": "1.36",
+    "eventDate": "2024-03-17 01:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "WTA 1000 Indian Wells (USA) - Hard",
+    "eventName": "Iga Swiatek POL vs Maria Sakkari GRE",
+    "player1": "Iga Swiatek POL",
+    "player2": "Maria Sakkari GRE",
+    "player1_odds": "1.15",
+    "player2_odds": "5.75",
+    "eventDate": "2024-03-17 20:00",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ATP Challenger Phoenix (USA) - Hard",
+    "eventName": "Nuno Borges POR vs Luca Van Assche FRA",
+    "player1": "Nuno Borges POR",
+    "player2": "Luca Van Assche FRA",
+    "player1_odds": "1.65",
+    "player2_odds": "2.10",
+    "eventDate": "2024-03-17 00:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ATP Challenger Phoenix (USA), Doubles - Hard",
+    "eventName": "S. Doumbia/F. Reboul vs M. Krueger/D. Kudla",
+    "player1": "S. Doumbia/F. Reboul",
+    "player2": "M. Krueger/D. Kudla",
+    "player1_odds": "1.22",
+    "player2_odds": "3.70",
+    "eventDate": "2024-03-16 23:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ATP Challenger Phoenix (USA), Doubles - Hard",
+    "eventName": "R. Hijikata/H. Patten vs F. Martin/H. Nys",
+    "player1": "R. Hijikata/H. Patten",
+    "player2": "F. Martin/H. Nys",
+    "player1_odds": "2.40",
+    "player2_odds": "1.48",
+    "eventDate": "2024-03-17 01:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Aktobe (KAZ) - Hard",
+    "eventName": "Egor Agafonov RUS vs Ilia Simakin RUS",
+    "player1": "Egor Agafonov RUS",
+    "player2": "Ilia Simakin RUS",
+    "player1_odds": "2.65",
+    "player2_odds": "1.40",
+    "eventDate": "2024-03-17 09:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Antalya (TUR) - Clay",
+    "eventName": "Dominik Kellovsky CZE vs Max Alcala Gurri ESP",
+    "player1": "Dominik Kellovsky CZE",
+    "player2": "Max Alcala Gurri ESP",
+    "player1_odds": "1.83",
+    "player2_odds": "1.83",
+    "eventDate": "2024-03-17 11:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Bakersfield (USA) - Hard",
+    "eventName": "Tung-lin Wu TPE vs Timo Legout FRA",
+    "player1": "Tung-lin Wu TPE",
+    "player2": "Timo Legout FRA",
+    "player1_odds": "1.40",
+    "player2_odds": "2.70",
+    "eventDate": "2024-03-16 23:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Bakersfield (USA) - Hard",
+    "eventName": "Brandon Holt USA vs Ernesto Escobedo MEX",
+    "player1": "Brandon Holt USA",
+    "player2": "Ernesto Escobedo MEX",
+    "player1_odds": "1.44",
+    "player2_odds": "2.55",
+    "eventDate": "2024-03-17 01:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Bakersfield (USA), Doubles - Hard",
+    "eventName": "P. Harper/E. Hudd vs A. Holmgren/N. Ponwith",
+    "player1": "P. Harper/E. Hudd",
+    "player2": "A. Holmgren/N. Ponwith",
+    "player1_odds": "2.10",
+    "player2_odds": "1.60",
+    "eventDate": "2024-03-17 03:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Heraklion (GRE) - Hard",
+    "eventName": "Oleg Prihodko UKR vs Henrik Wiersholm USA",
+    "player1": "Oleg Prihodko UKR",
+    "player2": "Henrik Wiersholm USA",
+    "player1_odds": "1.25",
+    "player2_odds": "3.50",
+    "eventDate": "2024-03-17 11:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Hinode (JPN) - Hard",
+    "eventName": "Yan Bai CHN vs Stefanos Sakellaridis GRE",
+    "player1": "Yan Bai CHN",
+    "player2": "Stefanos Sakellaridis GRE",
+    "player1_odds": "1.40",
+    "player2_odds": "2.65",
+    "eventDate": "2024-03-17 05:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Les Franqueses Del Valles (ESP) - Hard",
+    "eventName": "Adria Soriano Barrera COL vs Giles Hussey GBR",
+    "player1": "Adria Soriano Barrera COL",
+    "player2": "Giles Hussey GBR",
+    "player1_odds": "2.15",
+    "player2_odds": "1.60",
+    "eventDate": "2024-03-17 13:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Monastir (TUN) - Hard",
+    "eventName": "Christoph Negritu GER vs Florian Broska GER",
+    "player1": "Christoph Negritu GER",
+    "player2": "Florian Broska GER",
+    "player1_odds": "1.87",
+    "player2_odds": "1.80",
+    "eventDate": "2024-03-17 11:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - New Delhi (IND) - Hard",
+    "eventName": "Karan Singh IND vs Ramkumar Ramanathan IND",
+    "player1": "Karan Singh IND",
+    "player2": "Ramkumar Ramanathan IND",
+    "player1_odds": "4.25",
+    "player2_odds": "1.17",
+    "eventDate": "2024-03-17 11:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Rovinj (CRO) - Clay",
+    "eventName": "Jay Clarke GBR vs Matej Dodig CRO",
+    "player1": "Jay Clarke GBR",
+    "player2": "Matej Dodig CRO",
+    "player1_odds": "2.00",
+    "player2_odds": "1.70",
+    "eventDate": "2024-03-17 13:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Men - Trimbach (SUI) - Hard",
+    "eventName": "Antoine Hoang FRA vs Mats Rosenkranz GER",
+    "player1": "Antoine Hoang FRA",
+    "player2": "Mats Rosenkranz GER",
+    "player1_odds": "1.65",
+    "player2_odds": "2.05",
+    "eventDate": "2024-03-17 13:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Mildura (AUS) - Men - Grass",
+    "eventName": "Alex Bolt AUS vs Luke Saville AUS",
+    "player1": "Alex Bolt AUS",
+    "player2": "Luke Saville AUS",
+    "player1_odds": "1.40",
+    "player2_odds": "2.65",
+    "eventDate": "2024-03-17 03:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Mildura (AUS) - Women - Grass",
+    "eventName": "Maddison Inglis AUS vs Tina Nadine Smith AUS",
+    "player1": "Maddison Inglis AUS",
+    "player2": "Tina Nadine Smith AUS",
+    "player1_odds": "1.36",
+    "player2_odds": "2.80",
+    "eventDate": "2024-03-17 05:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Women - Antalya (TUR) - Clay",
+    "eventName": "Denislava Glushkova BUL vs Denisa Hindova CZE",
+    "player1": "Denislava Glushkova BUL",
+    "player2": "Denisa Hindova CZE",
+    "player1_odds": "1.55",
+    "player2_odds": "2.25",
+    "eventDate": "2024-03-17 11:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Women - Heraklion (GRE) - Clay",
+    "eventName": "Nina Vargova SVK vs Sofia Milatova SVK",
+    "player1": "Nina Vargova SVK",
+    "player2": "Sofia Milatova SVK",
+    "player1_odds": "1.25",
+    "player2_odds": "3.40",
+    "eventDate": "2024-03-17 11:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Women - Indore (IND) - Hard",
+    "eventName": "Shrivalli Rashmikaa Bhamidipaty IND vs Dalila Jakupovic SLO",
+    "player1": "Shrivalli Rashmikaa Bhamidipaty IND",
+    "player2": "Dalila Jakupovic SLO",
+    "player1_odds": "2.40",
+    "player2_odds": "1.48",
+    "eventDate": "2024-03-17 08:15",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Women - Karaganda (KAZ) - Hard",
+    "eventName": "Ksenia Laskutova RUS vs Eunhye Lee KOR",
+    "player1": "Ksenia Laskutova RUS",
+    "player2": "Eunhye Lee KOR",
+    "player1_odds": "1.95",
+    "player2_odds": "1.72",
+    "eventDate": "2024-03-17 08:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Women - Monastir (TUN) - Hard",
+    "eventName": "Radka Zelnickova SVK vs Elena Milovanovic SRB",
+    "player1": "Radka Zelnickova SVK",
+    "player2": "Elena Milovanovic SRB",
+    "player1_odds": "N/A",
+    "player2_odds": "N/A",
+    "eventDate": "2024-03-17 11:45",
+    "lastUpdate": "2024-03-16 21:06"
+  },
+  {
+    "tournament": "ITF Women - Ricany (CZE) - Hard",
+    "eventName": "Daria Snigur UKR vs Tereza Valentova CZE",
+    "player1": "Daria Snigur UKR",
+    "player2": "Tereza Valentova CZE",
+    "player1_odds": "N/A",
+    "player2_odds": "N/A",
+    "eventDate": "2024-03-17 13:15",
+    "lastUpdate": "2024-03-16 21:06"
+  }
+]
